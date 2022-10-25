@@ -1,0 +1,15 @@
+prnt('Hello')
+---------------------------------------------------------------------------
+NameError                                 Traceback (most recent call last)
+Input In [2], in <cell line: 1>()
+----> 1 prnt('Hello')
+
+NameError: name 'prnt' is not defined
+
+print('Hello')
+result:
+  Hello
+
+print('I'm studying Python!'')
+result:
+  I'm studying Python!

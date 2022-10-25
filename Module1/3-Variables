@@ -1,0 +1,37 @@
+greeting_1 = 'Hello, friend!'
+print (greeting_1)
+greeting_2 = 'Hi, everybody!'
+print (greeting_2)
+result:
+      Hello, friend!
+      Hi, everybody!
+
+print(new_greeting)
+new_greeting = 'Cheers!' 
+---------------------------------------------------------------------------
+NameError                                 Traceback (most recent call last)
+Input In [4], in <cell line: 1>()
+----> 1 print(new_greeting)
+      2 new_greeting = 'Cheers!'
+
+NameError: name 'new_greeting' is not defined
+
+_correctName
+correctName
+correctName89
+89incorrect
+---------------------------------------------------------------------------
+  Input In [5]
+    89incorrect
+      ^
+SyntaxError: invalid syntax
+
+greeting
+Greeting
+
+from = 'aa'
+---------------------------------------------------------------------------
+  Input In [6]
+    from = 'aa'
+         ^
+SyntaxError: invalid syntax

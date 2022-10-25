@@ -1,0 +1,63 @@
+2 + 3
+result:
+  5
+
+5 - 4
+result:
+  1
+
+3 * 5
+result:
+  15
+
+# standard division
+6/2
+result:
+  3.0
+
+7/2
+result:
+  3.5
+
+# integer division
+6 // 2
+result:
+  3
+
+7 // 2
+result:
+  3
+
+# modulus division
+6 % 2
+result:
+  0
+
+7 % 2
+result:
+  1
+
+5 / 0
+---------------------------------------------------------------------------
+ZeroDivisionError                         Traceback (most recent call last)
+Input In [13], in <cell line: 1>()
+----> 1 5 / 0
+
+ZeroDivisionError: division by zero
+
+# power operator
+2 ** 3
+result:
+  8
+
+2 + 3
+result:
+  5
+
+2 + 3.0
+result:
+  5.0
+
+2.0 + 3.0
+result:
+  5.0
