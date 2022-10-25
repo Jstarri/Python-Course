@@ -1,0 +1,10 @@
+print ('sample') #this is a mid-line comment
+
+#here is an all-line comment
+
+# note that variables are strings, not numbers!
+var1 = '23'
+var2 = '54'
+
+print ('Hello')
+print ('Hidden Message')
