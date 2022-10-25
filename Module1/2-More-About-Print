@@ -7,5 +7,9 @@ Input In [2], in <cell line: 1>()
 NameError: name 'prnt' is not defined
 
 print('Hello')
+result:
+  Hello
 
 print('I'm studying Python!'')
+result:
+  I'm studying Python!
